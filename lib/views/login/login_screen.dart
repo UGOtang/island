@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:island/components/general/background.dart';
 import 'package:island/components/general/responsive.dart';
-
-import 'components/login_form.dart';
-import 'components/login_screen_top_image.dart';
+import 'package:island/components/login/login_form.dart';
+import 'package:island/components/login/login_screen_top_image.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
